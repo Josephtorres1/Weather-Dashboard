@@ -19,3 +19,7 @@
 .navbar-dark .navbar-brand {
   color: white;
 }
+
+body {
+  background-color: whitesmoke;
+}
